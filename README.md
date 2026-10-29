@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**julia-vasconcelos-dev/julia-vasconcelos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Analysis and Systems Development (ADS) student interested in software development and technology.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently studying Analysis and Systems Development (ADS)
+- 💻 Interested in software development
+- 🌱 Building my programming fundamentals
+- 📚 Always learning and exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I'm Learning
+- C
+- Python
+- Git and GitHub
+
+## 🎯 Goals
+- Build projects and apply what I learn
+- Improve my problem-solving skills
+- Grow as a software developer
+
+---
+
+✨ *Learning, building, and growing one step at a time.*
